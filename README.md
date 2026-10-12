@@ -1,3 +1,7 @@
+<img width="483" height="498" alt="image" src="https://github.com/user-attachments/assets/c38b973e-fd8e-4ffa-86a0-81114a03dbe1" />
+
+This repo is for my progress on KyTyPS5, this emulator is dope, but theres so many issues, so i would like to give my fixes. majority of my work will be imported all at once because i worked from VS and not github, because i didnt think my contributions would be that big. but here we are. do note i dont test these builds on either linux or macos, simply because i dont have a system with it. so if this blows up your computer, uhh sorry
+
 # KytyPS5
 
 [![Build KytyPS5 (Windows)](https://img.shields.io/github/check-runs/KytyPS5/KytyPS5/main?nameFilter=Build%20KytyPS5%20%28Windows%29&label=Build%20KytyPS5%20%28Windows%29)](https://github.com/KytyPS5/KytyPS5/actions/workflows/build.yml)
